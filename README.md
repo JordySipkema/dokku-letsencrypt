@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This repository has been archived. The official dokku-letsencrypt branch has fixed the issue which has been addressed in this fork.
+
 # dokku-letsencrypt (Beta)
 
 dokku-letsencrypt is the official plugin for [dokku][dokku] that gives the ability to automatically retrieve and install TLS certificates from [letsencrypt.org](https://letsencrypt.org). During ACME validation, your app will stay available at any time.
